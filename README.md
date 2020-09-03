@@ -12,4 +12,4 @@
 - 💬 Ask me about ...Anything that don't turn on my SAD.
 - 📫 How to reach me: ...sreeragibtl@gmail.com
 - 😄 Pronouns: ...???
-- ⚡ Fun fact: ...I am home schooled and hence not trust worthy. Most of the works presented here are just stunts.
+- ⚡ Fun fact: ...Most of the works presented here are just stunts.
