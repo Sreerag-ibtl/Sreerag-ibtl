@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on ...OCR
+- 🔭 I’m currently working on ...3D Hand pose estimation
 - 🌱 I’m currently learning ...There's a lot.
 - 👯 I’m looking to collaborate on ...Anything related to cognition.
 - 🤔 I’m looking for help with ...I just don't do that anyway.
