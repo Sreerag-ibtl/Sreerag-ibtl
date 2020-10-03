@@ -5,11 +5,11 @@
 -->
 
 
-- 🔭 I’m currently working on ...3D Hand pose estimation
-- 🌱 I’m currently learning ...There's a lot.
-- 👯 I’m looking to collaborate on ...Anything related to cognition.
-- 🤔 I’m looking for help with ...I just don't do that anyway.
-- 💬 Ask me about ...Anything that don't turn on my SAD.
-- 📫 How to reach me: ...sreeragibtl@gmail.com
+- 🔭 I’m currently working on 3D Hand pose estimation
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: sreeragibtl@gmail.com
 - 😄 Pronouns: ...???
-- ⚡ Fun fact: ...Most of the works presented here are just stunts.
+- ⚡ Fun fact: ...
