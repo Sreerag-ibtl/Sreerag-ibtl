@@ -6,6 +6,8 @@
 
 
 - 🔭 I’m currently working on 3D Hand pose estimation
+
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,3 +15,4 @@
 - 📫 How to reach me: sreeragibtl@gmail.com
 - 😄 Pronouns: ...???
 - ⚡ Fun fact: ...
+-->
