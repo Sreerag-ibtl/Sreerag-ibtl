@@ -5,7 +5,9 @@
 -->
 
 
-- 🔭 I’m currently working on 3D Hand pose estimation
+- 🔭 I’m currently working on
+  - 3D Hand pose estimation
+  - Embodied conversational agents 
 
 <!--
 - 🌱 I’m currently learning ...
