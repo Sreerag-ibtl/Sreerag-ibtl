@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on
   - 3D Hand pose estimation
-  - Embodied conversational agents 
+  - Uncaliberated structure from motion
 
 <!--
 - 🌱 I’m currently learning ...
