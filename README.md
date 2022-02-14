@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on
-  - 3D Hand pose estimation
-  - Uncaliberated structure from motion
+-  Factorization
+-  Virtual Touch
 
 <!--
 - 🌱 I’m currently learning ...
