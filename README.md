@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on
+🔭 I’m currently working on
 -  Review analytics
 -  Talking head generation
 
