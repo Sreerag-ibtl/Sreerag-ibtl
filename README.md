@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently working on
--  Factorization
--  Virtual Touch
+-  Review analytics
+-  Talking head generation
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
 
