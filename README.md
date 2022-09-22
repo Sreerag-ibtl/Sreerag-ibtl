@@ -9,6 +9,7 @@
 -  Review analytics
 -  Talking head generation
 -  Voice conversion
+-  Generative art
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
 
