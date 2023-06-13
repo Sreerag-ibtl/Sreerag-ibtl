@@ -6,10 +6,10 @@
 
 
 🔭 I’m currently working on
--  Review analytics
 -  Talking head generation
 -  Singing voice conversion
 -  Generative art
+-  Performant ML inference infra.
 
 <!--
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
