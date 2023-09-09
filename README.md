@@ -8,6 +8,7 @@
 🔭 I’m currently working on
 -  Singing voice conversion
 -  Performant ML inference infra
+-  Generative algorithms for images.
 
 <!--
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
