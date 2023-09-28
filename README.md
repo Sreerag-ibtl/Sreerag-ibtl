@@ -9,7 +9,7 @@
 -  Inventing novel ways of music consumption.
 -  Performant ML inference infrastructure.
 -  Generative algorithms for vision and audio.
--  Inventing novel media for the presentation layer.
+-  Inventing novel web media.
 
 <!--
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
