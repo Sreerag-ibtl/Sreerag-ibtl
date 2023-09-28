@@ -6,9 +6,10 @@
 
 
 🔭 I’m currently working on
--  Singing voice conversion
--  Performant ML inference infra
--  Generative algorithms for images.
+-  Inventing novel ways of music consumption.
+-  Performant ML inference infrastructure.
+-  Generative algorithms for vision and audio.
+-  Inventing novel media for the presentation layer.
 
 <!--
 [![Stats](https://github-readme-stats.vercel.app/api?username=Sreerag-ibtl)](https://github.com/anuraghazra/github-readme-stats)
